@@ -31,7 +31,7 @@
 		"vue-property-decorator": "^8.4.0",
 		"vue-ripple-directive": "^2.0.1",
 		"vue-router": "^3.1.5",
-		"vue-toasted": "^1.1.27",
+		"vue-toasted": "^1.1.28",
 		"vuex": "^3.1.2",
 		"vuex-class": "^0.3.2"
 	},
